@@ -1,6 +1,5 @@
 ;;;; -*- Mode: Lisp -*-
 ;;;; 866037 Aziani Riccardo
-;;;; 869257 Castelli Luca
 
 ;;;; Progetto E3P Polinomi Multivariati
 
