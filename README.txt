@@ -1,5 +1,4 @@
 866037 Aziani Riccardo 
-869257 Castelli Luca
 
 FUNZIONE as-monomial/1
 Prende in input un'espressione e ritorna la struttura dati (lista) che rappresenta il monomio risultante dal parsing dell’espressione presa in input.
