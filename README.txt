@@ -1,3 +1,7 @@
+# Functional-Programming---Lisp-Polynomials-Library
+
+This project is a Lisp implementation of k-means algorithm, done during my three-year degree in Milano-Bicocca University.
+
 866037 Aziani Riccardo 
 
 FUNZIONE as-monomial/1
